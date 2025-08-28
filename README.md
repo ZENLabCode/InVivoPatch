@@ -15,3 +15,6 @@ The codebase provides tools for:
 
 ## Data Availability
 Code is written in MATLAB and compatible with standard electrophysiology file formats (ABF files from pClamp).
+
+
+10.5281/zenodo.16982694
